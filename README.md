@@ -93,15 +93,55 @@ Volunteers get a dashboard. NGOs get analytics. Admins get control. Everyone sav
 
 ## 🖥️ Screenshots
 
-> _Screenshots coming soon — UI includes dark mode glassmorphism dashboards, animated landing page, and certificate preview._
+<table>
+<tr>
+<td align="center">
 
-| Landing Page | Volunteer Dashboard | Admin Panel |
-|---|---|---|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
+### Landing Page
+<img src="screenshots/landing-page.png" width="450">
 
-| Event Discovery | Certificate View | Analytics |
-|---|---|---|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
+</td>
+
+<td align="center">
+
+### Volunteer Dashboard
+<img src="screenshots/volunteer-dashboard.png" width="450">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Admin Dashboard
+<img src="screenshots/admin-dashboard.png" width="450">
+
+</td>
+
+<td align="center">
+
+### Event Discovery
+<img src="screenshots/events-page.png" width="450">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Certificate View
+<img src="screenshots/certificate.png" width="450">
+
+</td>
+
+<td align="center">
+
+### Analytics
+<img src="screenshots/analytics.png" width="450">
+
+</td>
+</tr>
+</table>
 
 ---
 
